@@ -3,5 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Git is opensource.
-Git creates a new branch quickly.
+Git creates a new branch quick AND simple.
 Git stages and unstages modification quickly.
