@@ -5,3 +5,4 @@ Git tracks changes of files.
 Git is open-source.
 Git creates a new branch quickly and simply.
 Git stages and unstages modification quickly.
+Git stash is a great idea.
